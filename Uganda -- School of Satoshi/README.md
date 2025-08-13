@@ -6,7 +6,7 @@
 - **City:** Kampala
 
 ## 📖 About Us
-School of Satoshi is a Ugandan education platform/program focused on empowering Ugandans through comprehensive Bitcoin education delivered in the most commonly spoken native/local languages
+School of Satoshi is a Ugandan education program focused on empowering Ugandans through comprehensive Bitcoin education delivered in the most commonly spoken native/local languages
 
 ## 👥 Our Team
 We’re a dedicated team committed to sharing Bitcoin knowledge, inspiring curiosity, and empowering our community to take charge of their financial future, and contribute to the growth and sustainability of our Bitcoin circular economy.
@@ -22,7 +22,7 @@ We’re a dedicated team committed to sharing Bitcoin knowledge, inspiring curio
 - **Number of Students Graduated:** Total: 38 students graduated
 
 ## 🏆 Recent Achievements
-One of our most exciting recent achievements is the launch of *Bitcoin Kiboozi; a street-interview series where we take Bitcoin conversations directly to the people. In Uganda, ‘kiboozi’ means a casual chat, and that’s exactly what we aim for: open, relatable discussions about Bitcoin, money, and the changes we see in our economy. Through these conversations, we’ve connected with everyday Ugandans, especially university students, listening to their stories, their challenges, and their hopes for the future. It’s our way of making Bitcoin education real, local, and human.
+One of our most exciting recent achievements is the launch of Bitcoin Kiboozi; a street-interview series where we take Bitcoin conversations directly to the people. In Uganda, ‘kiboozi’ means a casual chat, and that’s exactly what we aim for: open, relatable discussions about Bitcoin, money, and the changes we see in our economy. Through these conversations, we’ve connected with everyday Ugandans, especially university students, listening to their stories, their challenges, and their hopes for the future. It’s our way of making Bitcoin education real, local, and human.
 
 ## 📞 Contact Information
 - **Website:** https://www.schoolofsatoshi.co/

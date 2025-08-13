@@ -6,7 +6,7 @@
 - **City:** Kampala
 
 ## 📖 About Us
-School of Satoshi is a Ugandan education program focused on empowering Ugandans through comprehensive Bitcoin education delivered in the most commonly spoken native/local languages
+School of Satoshi is a Ugandan education program focused on empowering Ugandans through comprehensive Bitcoin education delivered in the most commonly spoken native/local languages.
 
 ## 👥 Our Team
 We’re a dedicated team committed to sharing Bitcoin knowledge, inspiring curiosity, and empowering our community to take charge of their financial future, and contribute to the growth and sustainability of our Bitcoin circular economy.
@@ -28,7 +28,7 @@ One of our most exciting recent achievements is the launch of Bitcoin Kiboozi; a
 - **Website:** https://www.schoolofsatoshi.co/
 - **Email:** schoolofsatoshi016@gmail.com
 - **WhatsApp:** +256 726489374/ +256 703523137
-- **Telegram:** [Insert Telegram Contact Here]
+- **Telegram:** +256 778782093
 - **Phone:** +256 702233740/ +256 778782093
 
 ## 💰 Official Donation Link

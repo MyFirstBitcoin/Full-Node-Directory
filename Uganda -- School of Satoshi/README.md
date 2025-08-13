@@ -10,7 +10,7 @@ School of Satoshi is a Ugandan education platform/program focused on empowering 
 
 ## 👥 Our Team
 [Insert a short description of your team here. Include a group picture or a picture of a key team member.]
-<img src="https://github.com/MyFirstBitcoin/Full-Node-Directory/blob/0720cf6dab5339d7187b5c55f298845c38b71125/Uganda%20--%20School%20of%20Satoshi/first%20graduation.jpg" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
+<img src="https://github.com/MyFirstBitcoin/Full-Node-Directory/blob/main/Uganda%20--%20School%20of%20Satoshi/TEAM%201.jpg" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
 - **Dates of Graduations:**
